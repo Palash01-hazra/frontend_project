@@ -1,0 +1,121 @@
+.main{
+    background-image: url("Assets/images/backup_page.jpg");
+    background-position: center center;
+    height: 650px;
+    background-size: max(1200px, 100vw);
+    background-repeat: no-repeat;
+    /* width: 20px; */
+    
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.main .box{
+    background-color: black;
+    position: absolute;
+    height: 650px;
+    width: 100%;
+    opacity: 0.69;
+    top:0;
+}
+.wriiten{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 900;
+    font-size: large;
+    display: flex;
+   justify-content:  center;
+   align-items: center;
+   align-content: center;
+   flex-direction: column;
+    color: white;
+    position: relative;
+    padding: 300px 0px;
+}
+.mid{
+    background-color: rgb(31, 30, 30);
+    width: auto;
+    height: 10px;
+}
+.lower{
+    background-color: black;
+    padding: 133px 0px;
+    height: 170px;
+    width: 100%;
+    z-index: 20;
+    position: relative;
+    color: white;
+}
+.mid1{
+    background-color: rgb(31, 30, 30);
+    width: auto;
+    height: 12px;
+}
+.lower1{
+    background-color: black;
+    padding: 133px 0px;
+    height: 170px;
+    width: 100%;
+    z-index: 20;
+    position: relative;
+    color: white;
+}
+.mid2{
+    background-color: rgb(31, 30, 30);
+    width: auto;
+    height: 12px;
+}
+.lower2{
+    background-color: black;
+    padding: 133px 0px;
+    height: 170px;
+    width: 100%;
+    z-index: 20;
+    position: relative;
+    color: white;
+}
+.mid3{
+    background-color: rgb(31, 30, 30);
+    width: auto;
+    height: 10px;
+}
+.lower3{
+    background-color: black;
+    padding: 133px 0px;
+    height: 170px;
+    width: 100%;
+    z-index: 20;
+    position: relative;
+    color: white;
+}
+.mid4{
+    background-color: rgb(31, 30, 30);
+    width: auto;
+    height: 10px;
+}
+.lower4{
+    background-color: black;
+    padding: 133px 0px;
+    height: 170px;
+    width: 100%;
+    z-index: 20;
+    position: relative;
+    color: white;
+}
+.mid5{
+    background-color: rgb(31, 30, 30);
+    width: auto;
+    height: 10px;
+}
+.lower5{
+    background-color: black;
+    padding: 133px 0px;
+    height: 300px;
+    width: 100%;
+    z-index: 20;
+    position: relative;
+    color: white;
+}
+.btn btn-red{
+    
+}
